@@ -9,3 +9,9 @@ My learnings for FullStack
 - Assignments -> all assignments
   - files -> assignments that can be put in a single file
   - folders -> for assignments that require multiple files
+
+## General Tips
+- Do all assignments and Hard Todos
+- Tag on Twitter whatever you do
+- Learn from Class, but do more yourself
+- Build many projects and show work on github/ linkedin
