@@ -7,6 +7,7 @@ My learnings for FullStack
 - Notes -> Notes for each class
   - Images -> storing screenshots for notes
 - Assignments -> all assignments
+  - Assignment Project - https://github.com/aditya1876/FullStackLearning/tree/main
   - files -> assignments that can be put in a single file
   - folders -> for assignments that require multiple files
 
